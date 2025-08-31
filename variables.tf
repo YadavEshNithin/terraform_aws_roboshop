@@ -19,7 +19,7 @@ variable "bastion_sgn" {
 }
 
 variable "zone_id" {
-  default = "Z06785221SBGYOQ3RLYGM"
+  default = "Z009301219WUFZE0J0EH9"
 }
 
 variable "zone_name" {
